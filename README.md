@@ -1,6 +1,6 @@
 # MuseFlow
 
-##Abstract
+## Abstract
 Mind-wandering, i.e., letting the mind drift away from the
 task at hand, is mostly seen as a state of mind to avoid, as it may
 negatively impact the current task. However, evidence in cognitive sci-
