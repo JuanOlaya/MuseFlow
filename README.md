@@ -16,6 +16,18 @@ the game.
 
 <p align="center">
   <a>
+    <img src="Images/Starting.png" width=600 height=301>
+  </a>
+</p>
+
+<p align="center">
+  <a>
     <img src="Images/Goal.png" width=600 height=301>
+  </a>
+</p>
+
+<p align="center">
+  <a>
+    <img src="Images/PowerUp.png" width=600 height=301>
   </a>
 </p>
