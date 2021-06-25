@@ -6,7 +6,7 @@ Mind-wandering, i.e., letting the mind drift away from the task at hand, is most
 ## Keywords
 mind-wandering, creativity, problem-solving, game mechanics, video game, creativity support tools, serious games
 
-##Technical Implementation
+## Technical Implementation
 MuseFlow was developed using web technologies such as HTML, CSS and p5.js, which is a JavaScript library. The back-end were implemented using PHP and SQL. We invite interested researchers to contribute to this endeavor.
 
 <p align="center">
