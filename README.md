@@ -16,6 +16,6 @@ the game.
 
 <p align="center">
   <a>
-    <img src="Images/Goal.png" width=600 height=500>
+    <img src="Images/Goal.png" width=600 height=156>
   </a>
 </p>
