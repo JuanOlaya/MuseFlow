@@ -12,3 +12,10 @@ wandering deliberately. Our study shows that MuseFlow induces mind-
 wandering significantly more often compared to a demanding game con-
 dition while maintaining the players' motivation to play and succeed in
 the game.
+
+
+<p align="center">
+  <a>
+    <img src="Images/Goal.png" width=600 height=430>
+  </a>
+</p>
