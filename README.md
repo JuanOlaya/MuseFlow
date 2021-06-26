@@ -15,10 +15,11 @@ MuseFlow was developed using the JavaScript library [p5.js](https://p5js.org/) i
   </a>
 </p>
 
-  <figure align="center">
-      <img src="Images/Model.jpg" alt="Model" width=600 height=580>
-      <figcaption>Undemanding Game Mechanics Model</figcaption>
-  </figure>
+
+<figure align="center">
+  <img src="Images/Model.jpg" width=600 height=580>
+  <figcaption>Undemanding Game Mechanics Model</figcaption>
+</figure>
 
 
 <p align="center">
