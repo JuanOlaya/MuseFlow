@@ -34,4 +34,20 @@ MuseFlow was developed using the JavaScript library [p5.js](https://p5js.org/) i
   </a>
 </p>
 
+<style>
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+</style>
+
 
