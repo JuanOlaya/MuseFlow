@@ -17,6 +17,12 @@ MuseFlow was developed using the JavaScript library [p5.js](https://p5js.org/) i
 
 <p align="center">
   <a>
+    <img src="Images/Model.png" width=600 height=301>
+  </a>
+</p>
+
+<p align="center">
+  <a>
     <img src="Images/PowerUp.png" width=600 height=301>
   </a>
 </p>
