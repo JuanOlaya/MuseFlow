@@ -9,6 +9,35 @@ mind-wandering, creativity, problem-solving, game mechanics, video game, creativ
 ### Technical Implementation
 MuseFlow was developed using the JavaScript library [p5.js](https://p5js.org/) integrated with HTML and CSS. The back-end were implemented using PHP and SQL. We invite interested researchers to contribute to this endeavor.
 
+
+
+<head>
+<style>
+figure {
+  border: 1px #cccccc solid;
+  padding: 4px;
+  margin: auto;
+}
+
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: center;
+}
+</style>
+</head>
+
+<body>
+
+<figure>
+  <img src="Images/Starting.png" alt="Trulli" style="width:100%">
+  <figcaption>Fig.1 - Trulli, Puglia, Italy</figcaption>
+</figure>
+
+</body>
+
 <p align="center">
   <a>
     <img src="Images/Starting.png" width=600 height=301>
