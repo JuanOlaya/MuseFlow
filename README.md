@@ -13,7 +13,7 @@ Play the game and get Eureka! moments: [MuseFlow online game](https://juanolaya.
 ### Technical Implementation
 MuseFlow was developed using the JavaScript library [p5.js](https://p5js.org/) integrated with HTML and CSS. The back-end were implemented using PHP and SQL. We invite interested researchers to contribute to this project.
 
-
+### Screeshot
 
 <p align="center">
   <a>
@@ -21,6 +21,8 @@ MuseFlow was developed using the JavaScript library [p5.js](https://p5js.org/) i
   </a>
 </p>
 
+### Model
+Model to Promote Mind-Wandering using Undemanding Game Mechanics
 
 <p align="center">
   <a>
