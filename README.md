@@ -6,6 +6,9 @@ Mind-wandering, i.e., letting the mind drift away from the task at hand, is most
 ### Paper
 [MuseFlow: Facilitating Mind-Wandering Through Video Games](https://hci.w-hs.de/wp-content/uploads/2021/06/pub_MuseFlow_INTERACT2021.pdf)
 
+### Online Game
+Play the game and get Eureka! moments: [MuseFlow](https://juanolaya.github.io/MuseFlow/index.html)
+
 
 ### Technical Implementation
 MuseFlow was developed using the JavaScript library [p5.js](https://p5js.org/) integrated with HTML and CSS. The back-end were implemented using PHP and SQL. We invite interested researchers to contribute to this project.
