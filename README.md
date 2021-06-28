@@ -7,7 +7,7 @@ Mind-wandering, i.e., letting the mind drift away from the task at hand, is most
 mind-wandering, creativity, problem-solving, game mechanics, video game, creativity support tools, serious games
 
 ### Technical Implementation
-MuseFlow was developed using the JavaScript library [p5.js](https://p5js.org/) integrated with HTML and CSS. The back-end were implemented using PHP and SQL. We invite interested researchers to contribute to this endeavor.
+MuseFlow was developed using the JavaScript library [p5.js](https://p5js.org/) integrated with HTML and CSS. The back-end were implemented using PHP and SQL. We invite interested researchers to contribute to this project.
 
 
 
