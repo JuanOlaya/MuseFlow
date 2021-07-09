@@ -6,7 +6,7 @@ Mind-wandering, i.e., letting the mind drift away from the task at hand, is most
 ### Publication
 Paper available: [MuseFlow: Facilitating Mind-Wandering Through Video Games](https://hci.w-hs.de/wp-content/uploads/2021/06/pub_MuseFlow_INTERACT2021.pdf)
 <br>
-Poster: [MuseFlow: Mind-Wandering and Video Games] https://www.researchgate.net/publication/353046179_MuseFlow_Mind-Wandering_and_Video_Games
+Poster: [MuseFlow: Mind-Wandering and Video Games](https://www.researchgate.net/publication/353046179_MuseFlow_Mind-Wandering_and_Video_Games)
 
 ### Online Game
 Play the game and get Eureka! moments: [MuseFlow online game](https://juanolaya.github.io/MuseFlow/index.html)
